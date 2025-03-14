@@ -231,4 +231,4 @@ Contributions are welcome!  Please follow these guidelines:
 
 ## Contact Info
 
-Telegram: [https://t.me/Rixlor](@Rixlor)
+Telegram: [@Rixlor](https://t.me/Rixlor)
